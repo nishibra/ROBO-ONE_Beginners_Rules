@@ -47,7 +47,7 @@ ROBO-ONE大会に参加を目指す初心者の皆さんが簡単に楽しく参
 
 ![robo](robo-beginner_pic/robo0.png)
 
-指定ロボット(自律型) [KXR-R2K ローバー型K 組立説明書](https://kondo-robot.com/faq/kxr-r2b-k_manual_sample）
+指定ロボット(自律型) [KXR-R2K ローバー型K 組立説明書](https://kondo-robot.com/faq/kxr-r2b-k_manual_sample)
 
 [電子回路・ソフトウェアなど参考資料](https://github.com/nishibra/ROBO-ONE_Beginners_auto)
 
