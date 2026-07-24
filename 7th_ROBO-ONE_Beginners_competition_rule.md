@@ -47,9 +47,9 @@ ROBO-ONE大会に参加を目指す初心者の皆さんが簡単に楽しく参
 
 ![robo](robo-beginner_pic/robo0.png)
 
-指定ロボット(自律型) KXR-R2K ローバー型K [組立説明書](https://kondo-robot.com/faq/kxr-r2b-k_manual_sample）
+指定ロボット(自律型) [KXR-R2K ローバー型K 組立説明書](https://kondo-robot.com/faq/kxr-r2b-k_manual_sample）
 
-[電子回路・ソフトウェアなど参考資料]（https://github.com/nishibra/ROBO-ONE_Beginners_auto）
+[電子回路・ソフトウェアなど参考資料](https://github.com/nishibra/ROBO-ONE_Beginners_auto)
 
 ロボットのサーボモーターはKRS-3301およびKRS-3302のみを使用することができます。またバッテリーや構造は変更できませんが、センサー、電子回路、ソフトウェアは自に変更できるものとします。コントローラーを取り付けロボットを操縦する場合は操縦型としても参加できます。また初段以降を受験するロボットはKRS-3300シリーズのすべてのサーボモーターを使用できると同時にバッテリー(Lipoバッテリー2セル/7.4Vなど)は自由に自己責任で使用できます。
 
