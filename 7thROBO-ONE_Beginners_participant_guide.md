@@ -74,6 +74,7 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 一般観戦者により体験操縦を行いますが、Beginners参加者も参加できます。
 
 15:40 表彰式
+
 15:45 終了
 
 
