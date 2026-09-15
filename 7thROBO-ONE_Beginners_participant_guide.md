@@ -60,6 +60,7 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 ![stage](guide_pic/gacha.png)
 
 一般観戦者により体験操縦を行いますが、Beginners参加者も参加できます。
+
 14:00〜 敗者リーグ戦 
 
 14:30 決勝トーナメント
