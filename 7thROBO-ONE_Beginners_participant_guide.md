@@ -56,7 +56,7 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 
 (おもちゃ運び:2台で実施します。ロボットはリングを周回します。レフリーの合図で、リング中央に置いたおもちゃを1分以内に自分のコーナーに運ぶことでお菓子をゲットできます。たくさん運べた場合は好きなものが選べます。自律型も操縦可能です。針金を準備しますので、おもちゃを運べるように、工夫してアームに取り付けてください。)
 
-![stage](guide_pic/toy2.png)
+![stage](guide_pic/toy_2.png)
 ![stage](guide_pic/gacha.png)
 
 一般観戦者により体験操縦を行いますが、Beginners参加者も参加できます。
