@@ -4,4 +4,4 @@
 - 第8回ROBO-ONE Beginners競技規則 [2026/11/29開催](8th_ROBO-ONE_Beginners_competition_rule.md)
 - 第7回ROBO-ONE Beginners参加者ガイド [2026/9/27終了](7thROBO-ONE_Beginners_participant_guide.md)
 ---
-第6回ROBO-ONE Beginners競技規則 [終了](6th_ROBO-ONE_Beginners_competition_rule.md)
+第7回ROBO-ONE Beginners競技規則 [終了](7th_ROBO-ONE_Beginners_competition_rule.md)
