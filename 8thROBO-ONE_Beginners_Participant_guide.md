@@ -63,10 +63,14 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 
 13:00 決勝トーナメント1回戦
 13:40 体験操縦2
+
+
+
 14:40 決勝トーナメント決勝まで
 
 15:00 体験操縦3
-
+プラスチックのバナナを使用します。
+[写真]
 
 一般観戦者により体験操縦を行いますが、Beginners参加者も参加できます。
 
