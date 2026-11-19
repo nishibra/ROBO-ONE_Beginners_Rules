@@ -1,5 +1,5 @@
 # ROBO-ONE Beginners競技規則
-#### 2026年7月8日作成
+#### 2026年11月19日作成
 ---
 - 第8回ROBO-ONE Beginners競技規則 [2026/11/29開催](8th_ROBO-ONE_Beginners_competition_rule.md)
 - 第8回ROBO-ONE Beginners参加者ガイド [2026/11/29開催](8th_ROBO-ONE_Beginners_Participant_guide.md)
