@@ -11,7 +11,7 @@
  9：00より試合会場への入場が可能です。選手待機場所(ホールステージ横)にてロボットの準備をお願いします。準備ができればリングを使った練習が可能です。
 試合会場はステージです。下図の選手控えのエリアです。
 
-![stage](guide_pic/stage.png.png)
+![stage](guide_pic/stage.png)
 
 
 ### レギュレーションチェック
@@ -57,6 +57,7 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 (__おもちゃ運び__:2台で実施します。ロボットはリングを周回します。レフリーの合図で、リング中央に置いたおもちゃを1分以内に自分のコーナーに運ぶことでお菓子をゲットできます。たくさん運べた場合は好きなものが選べます。__持ち上げて運んだ場合はおもちゃをゲットできます。__ 自律型も操縦可能です。針金を準備しますので、おもちゃを運べるように、工夫してアームに取り付けてください。)
 
 ![stage](guide_pic/toy_2.png)
+
 ![stage](guide_pic/gacha.png)
 
 一般観戦者により体験操縦を行いますが、Beginners参加者も参加できます。
@@ -70,7 +71,7 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 
 15:00 体験操縦3
 プラスチックのバナナを使用します。
-[Banana](guide_pic/banana.png)
+[Banana](guide_pic/banana.jpg)
 
 一般観戦者により体験操縦を行いますが、Beginners参加者も参加できます。
 
