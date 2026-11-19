@@ -42,10 +42,8 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 出場順に番号シールを貼ります。前回のシールなどははがしてください。番号シールは事務局にて準備します。
 
 
-### <新ROBO-剣/ROBO-ONE Beginners 開催スケジュール>
+### 新ROBO-剣/ROBO-ONE Beginners 開催スケジュール
 #### 11月29日(日)
-8:45 スタッフ集合
-
 9:00 準備開始/選手入場
 
 9:30 選手受付(兼)参加資格審査
