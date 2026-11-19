@@ -71,6 +71,7 @@ https://github.com/nishibra/ROBO-ONE_Beginners/blob/main/shodan.md
 
 15:00 体験操縦3
 プラスチックのバナナを使用します。
+
 ![Banana](guide_pic/banana.jpg)
 
 一般観戦者により体験操縦を行いますが、Beginners参加者も参加できます。
